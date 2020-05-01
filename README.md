@@ -9,22 +9,38 @@ This chatbot works based on pre-written keywords that it can understand. Each of
 
 This chatbot can interact with the user through audio and take queries from the user using speech recognition. It works with only English language (i.e. it recognises only English language), but one can make his own chatbot which can recognise other languages as well.The chatbot makes use of internet – for making google search & tell information about someone through Wikipedia and current location of the user, with the help of IP address of the system. It also uses API for telling weather report from the website. Chatbot is built using python programming language and its libraries.
 
-# Requirements:
+### Requirements:
 
-1. HARDWARE REQUIREMENTS
+##### 1. Hardware Requirements
 
-    •	Processor: Intel Atom or more.
-    
-    •	Memory: 2GB or more.
-    
-    •	Hard Disk Drive Space: 1GB or more
+        •	Processor: Intel Atom or more.
+        •	Memory: 2GB or more.
+        •	Hard Disk Drive Space: 1GB or more
 
-2. SOFTWARE REQUIREMENTS
+##### 2. Software Requirements
 
-    •	Operating System: Microsoft Windows 7 or later, MacOS, Linux
+        •	Operating System: Microsoft Windows 7 or later, MacOS, Linux
+        •	Programming Language: Python 3.x up to Python 3.6.x
+        •	Software: PyCharm or any other IDE that supports Python 3
+        •	Python Libraries: pyttsx3, wikipedia, datetime, webbrowser, os, pyjokes, random, requests, speech_recognition, time, geocoder.
     
-    •	Programming Language: Python 3.x up to Python 3.6.x
-    
-    •	Software: PyCharm or any other IDE that supports Python 3
-    
-    •	Python Libraries: pyttsx3, wikipedia, datetime, webbrowser, os, pyjokes, random, requests, speech_recognition, time, geocoder.
+### Limitations
+
+        •	Conversations are limited as limited features are added.
+        •	Python and required libraries need to be present in the system.
+        •	Internet is required.
+        •	Chatbot does not have any Emotions.
+        •	It has same answer for most of the queries.
+        •	It is unable to deal with multiple questions at same time.
+
+### Future Scope
+
+
+        •	This project can be made more accurate and precise with the help of NLP & Artificial Intelligence.
+        •	Future of Chatbots is very bright. With so much advancement in Artificial Intelligence sector, chatbots are the future with zero doubt.
+        •	The future chatbot will not be just a Customer Support agent, it will be an advance assistant for both the business and consumer.
+        •	We as human are not fond of doing repetitive boring tasks. So, in the future companies will hire AI Chatbot for the tasks which are repetitive and doesn’t require creativity.
+        •	Also, Human doesn’t like storing up contents (mugging up) in their mind. And today with the Internet they can leverage that part. So, tasks which require storing the information (data) can be transferred to AI Chatbot.
+        •	And with AI Chatbot taking over repetitive boring tasks, Companies will utilize their human resources for more creative tasks. With this, we can expect more amazing things coming up to us in the future.
+        •	So, summing all this up, yes, I see a lot potential of the AI Chatbot in the future. To make a product or technology successful, it needs public support and chatbot is getting that. With Advance modern technology coming up we can expect more astonishing features from a chatbot.
+
