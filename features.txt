@@ -1,0 +1,22 @@
+14   voice                                                      voice
+21   speak                                                      speak
+26   wishMe                                                     wishme
+48   takeCommmand
+71   weather_data
+75   print_weather
+85   weather
+100  google_search
+124  menu(needs to be made)
+130  program starts here
+134  wikipedia                                                  time, date, joke ,language
+144  open calculator
+148  search/open
+153  play music
+160  time
+165  date
+169  joke
+174  language created in
+178  random no.
+181  weather
+186  bye/stop
+190  program ends here
