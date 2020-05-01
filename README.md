@@ -1,4 +1,8 @@
 # Task Based Interactive Chatbot
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) 
+
 The project consists of designing of a task based interactive chat bot in which we created a multipurpose chatbot which can do things such as checking weather forecast report; open calculator, chrome, maps, YouTube; greet the user; do google search; play music; give information about someone through Wikipedia, etc with the help of voice based commands.
 
 This chatbot works based on pre-written keywords that it can understand. Each of these commands must be written by us separately using regular expressions or other forms of string analysis. If the user has asked a question without using a single keyword, the bot cannot understand it and, as a rule, responds with messages like “Say that again”. The main impact of the program is to interact with the user of the program and reduces his effort.
