@@ -3,12 +3,25 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) 
 
+### About Project
+
 The project consists of designing of a task based interactive chat bot in which we created a multipurpose chatbot which can do things such as checking weather forecast report; open calculator, chrome, maps, YouTube; greet the user; do google search; play music; give information about someone through Wikipedia, etc with the help of voice based commands.
 
 This chatbot works based on pre-written keywords that it can understand. Each of these commands must be written by us separately using regular expressions or other forms of string analysis. If the user has asked a question without using a single keyword, the bot cannot understand it and, as a rule, responds with messages like “Say that again”. The main impact of the program is to interact with the user of the program and reduces his effort.
 
 This chatbot can interact with the user through audio and take queries from the user using speech recognition. It works with only English language (i.e. it recognises only English language), but one can make his own chatbot which can recognise other languages as well.The chatbot makes use of internet – for making google search & tell information about someone through Wikipedia and current location of the user, with the help of IP address of the system. It also uses API for telling weather report from the website. Chatbot is built using python programming language and its libraries.
 
+### About Python Language
+Python is interpreted, high-level, general purpose programming language. Created by a Dutch programmer, “Guido Van Rossum” and first released in 1991. Its implementation began in 1989. 
+
+It supports multiple programming paradigms, including procedural, object-oriented and functional programming. Python interpreters are available for many operating systems. A non-profit organisation, the “Python Software Foundation”, manages and directs resources for Python development.
+
+##### Advantages of Python
+
+        • Presence of third-party modules
+        • Extensive Support libraries
+        • Learning Ease & Support Available
+        • Productivity and Speed
 ### Requirements:
 
 ##### 1. Hardware Requirements
